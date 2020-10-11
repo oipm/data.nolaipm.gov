@@ -1,15 +1,15 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
-baseurl: /jkan
+title: Data from OIPM
+greeting: Data from the New Orleans Independent Police Monitor
+description: Data from the New Orleans Independent Police Monitor
+baseurl: /
 logo: /img/jkan.png
 
 # Site theme
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 77995ce9fb1ade692645
+gatekeeper_host: https://data-nolaipm-gov.herokuapp.com/
 
 # Dataset schema
 schema: default
