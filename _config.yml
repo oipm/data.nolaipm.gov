@@ -9,7 +9,7 @@ jkan_theme: yeti
 
 # Authentication
 github_client_id: 77995ce9fb1ade692645
-gatekeeper_host: https://data-nolaipm-gov.herokuapp.com/
+gatekeeper_host: https://data-nolaipm-gov.herokuapp.com
 
 # Dataset schema
 schema: default
@@ -68,7 +68,7 @@ hypothesis:
 # Twitter
 twittercard:
   enabled: true
-  username: nolaipm
+  username: "@nolaipm"
 
 # Open Graph
 opengraph:
