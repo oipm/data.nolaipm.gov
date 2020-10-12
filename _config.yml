@@ -1,11 +1,11 @@
-title: Data from OIPM
-greeting: Data from the New Orleans Independent Police Monitor
+title: OIPM Data
+greeting: New Orleans Policing Data
 description: Data from the New Orleans Independent Police Monitor
 baseurl: /
-logo: /img/jkan.png
+logo: /img/logo.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: yeti
 
 # Authentication
 github_client_id: 77995ce9fb1ade692645
@@ -67,8 +67,8 @@ hypothesis:
 
 # Twitter
 twittercard:
-  enabled: false
-  username: "@"
+  enabled: true
+  username: nolaipm
 
 # Open Graph
 opengraph:
